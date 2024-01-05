@@ -80,10 +80,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Electronics
-          tag: Electronics
-        - name: PCB
-          tag: PCB
+        - name: Screw Theory
+          tag: Screw Theory
+        - name: Origami
+          tag: Origami
         - name: Mechanical design
           tag: Mechanical design
     design:
