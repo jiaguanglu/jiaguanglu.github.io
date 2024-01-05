@@ -65,7 +65,7 @@ social:
     link: https://github.com/jiaguanglu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ximeng-tao-758459241/
+    link: https://www.linkedin.com/in/guanglu-jia-90b45b285/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
