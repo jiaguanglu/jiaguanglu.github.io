@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0094114X18304415?via%3Dihub'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

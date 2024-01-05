@@ -1,18 +1,19 @@
 ---
-title: "Synthesis of a novel type of metamorphic mechanism module for large scale deployable grasping manipulators"
+title: "Type synthesis of plane-symmetric deployable grasping parallel mechanisms using constraint force parallelogram law"
 authors:
 - admin
 - Hailin Huang
-- Gregory Chirikjian
+- Sen Wang
+- Bing Li
 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2018-07-20T00:00:00Z"
+date: "2021-07-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-07-20T00:00:00Z"
+publishDate: "2021-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,20 +25,23 @@ publication_types: ["2"]
 publication: "Mechanism and Machine Theory"
 publication_short: ""
 
-abstract: This paper presents a novel type of deployable grasping manipulator (DGM), the fingers of which are constructed of serially connected metamorphic mechanism modules (MMMs), which are the key components for this type of robotic manipulator. A systematic approach for the synthesis of the MMMs is proposed. The MMM consists of one grasping sub- mechanism and two auxiliary sub-mechanisms, and the metamorphic principle is applied to the design of the grasping sub-mechanism to give it both deployment and grasping mo- bility. The design of the MMMs becomes a type of synthesis problem for the auxiliary sub- mechanisms based on the given metamorphic mobility of the grasping sub-mechanism. The auxiliary mechanisms are exhaustively synthesised based on the typical screw the- ory. Computer-aided design (CAD) models and physical prototypes are used to show the feasibility of the proposed mechanisms.
+abstract: Type synthesis methods of parallel mechanisms or metamorphic mechanisms have drawn rising interest for mechanism designers. However, existing synthesis approaches cannot synthesize both parallel mechanisms and metamorphic mechanisms. This paper develops a synthesis method of metamorphic mechanisms, which enables it to construct a family of 2-degree-of-freedom (DOF) deployable grasping parallel mechanisms. Namely, the originality of this paper is that it explores a common synthesis method for both parallel mechanisms and metamorphic mechanisms. First, a new type of grasping sub-mechanisms is designed. Then, a kinematic sub-chain is constructed after assembly of a base, a platform, and the grasping sub-mechanism, whose constraint-screw system is obtained using reciprocal screw theory. This constraint-screw system is further applied to derive the de- sired constraints of auxiliary sub-mechanisms using the constraint force parallelogram law. Subsequently, auxiliary sub-mechanisms are type synthesized based on such desired con- straints. Finally, a class of parallel mechanisms is constructed by assembling the auxiliary and the kinematic sub-chain. Thus, this paper and related work generate fresh insight into synthesizing both single-DOF metamorphic mechanisms and 2-DOF parallel mechanisms.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deployable grasping manipulator
+- Type synthesis
+- Parallel mechanism
 - Metamorphic mechanism
+- Screw theory
+- Constraint force parallelogram law
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0094114X18304415?via%3Dihub'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

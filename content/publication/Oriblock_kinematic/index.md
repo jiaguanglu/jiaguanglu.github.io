@@ -1,18 +1,18 @@
 ---
-title: "Synthesis of a novel type of metamorphic mechanism module for large scale deployable grasping manipulators"
+title: "Metamorphic Oriblocks: Design and Kinematic Analysis of Metamorphic Oriblocks Constructed by Cutting and Linking Cylinders/Cones"
 authors:
 - admin
-- Hailin Huang
-- Gregory Chirikjian
+- Bing Li
+- Jian S. Dai
 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2018-07-20T00:00:00Z"
+date: "2023-07-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-07-20T00:00:00Z"
+publishDate: "2023-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,23 +21,25 @@ publishDate: "2018-07-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Mechanism and Machine Theory"
+publication: "Journal of Mechanical Engineering"
 publication_short: ""
 
-abstract: This paper presents a novel type of deployable grasping manipulator (DGM), the fingers of which are constructed of serially connected metamorphic mechanism modules (MMMs), which are the key components for this type of robotic manipulator. A systematic approach for the synthesis of the MMMs is proposed. The MMM consists of one grasping sub- mechanism and two auxiliary sub-mechanisms, and the metamorphic principle is applied to the design of the grasping sub-mechanism to give it both deployment and grasping mo- bility. The design of the MMMs becomes a type of synthesis problem for the auxiliary sub- mechanisms based on the given metamorphic mobility of the grasping sub-mechanism. The auxiliary mechanisms are exhaustively synthesised based on the typical screw the- ory. Computer-aided design (CAD) models and physical prototypes are used to show the feasibility of the proposed mechanisms.
+abstract: Abstract：Origami is the art of folding paper to make it have an excellent folding effect. In order to apply it to the field of robotics and mechanisms, researchers have successively proposed design methods of thick-panel origamis to enable origami to be widely used in the design of foldable mechanisms and reconfigurable mechanisms. Although the thick-panel origamis are kinematically equivalent to zero-thickness origamis, researchers only consider translating the creases to obtain rotational axes of thick-panel origamis in the design process. Therefore, all the rotational axes are parallel to the kinematically equivalent zero-thickness origamis when the thick-panel origamis are at their deployed configuration. Namely, all the rotational axes are parallel to a certain plane. To break through the limitation of the design method of thick-panel origamis, a general design method of metamorphic oriblocks was proposed based on cylinders and cones, which constructs general types of cylindrical and conical oriblocks. This research will also deduce the closure equations of these metamorphic oriblocks, and give examples to analyze the kinematics of different types of metamorphic oriblocks. The metamorphic oriblocks designed in this paper has potential application prospects in the fields of foldable mechanisms, over-constrained mechanisms and configurable mechanisms.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deployable grasping manipulator
-- Metamorphic mechanism
+- Origami
+- Metamorphic oriblocks
+- Closure equations derivation
+- Kinematic analysis
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0094114X18304415?via%3Dihub'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

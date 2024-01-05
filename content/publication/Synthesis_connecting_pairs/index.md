@@ -1,18 +1,19 @@
 ---
-title: "Synthesis of a novel type of metamorphic mechanism module for large scale deployable grasping manipulators"
+title: "Type synthesis of metamorphic mechanisms with scissor-like linkage based on different kinds of connecting pairs"
 authors:
 - admin
+- Bing Li
 - Hailin Huang
-- Gregory Chirikjian
+- Dan Zhang
 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2018-07-20T00:00:00Z"
+date: "2020-07-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-07-20T00:00:00Z"
+publishDate: "2020-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,20 +25,22 @@ publication_types: ["2"]
 publication: "Mechanism and Machine Theory"
 publication_short: ""
 
-abstract: This paper presents a novel type of deployable grasping manipulator (DGM), the fingers of which are constructed of serially connected metamorphic mechanism modules (MMMs), which are the key components for this type of robotic manipulator. A systematic approach for the synthesis of the MMMs is proposed. The MMM consists of one grasping sub- mechanism and two auxiliary sub-mechanisms, and the metamorphic principle is applied to the design of the grasping sub-mechanism to give it both deployment and grasping mo- bility. The design of the MMMs becomes a type of synthesis problem for the auxiliary sub- mechanisms based on the given metamorphic mobility of the grasping sub-mechanism. The auxiliary mechanisms are exhaustively synthesised based on the typical screw the- ory. Computer-aided design (CAD) models and physical prototypes are used to show the feasibility of the proposed mechanisms.
+abstract: This paper presents a general synthesis approach for metamorphic mechanisms (MMs) with scissor-like linkage by considering various types of Connecting Pairs (CPs). Specific and general CPs are selected to synthesize MMs with scissor-linkage, respectively. Then, this paper further obtains the structural characteristics of the suitable CPs in such MMs. In addition, the case when two auxiliary planes are parallel to each other is also consid- ered in this paper. After type synthesis of MMs with scissor-like linkage, the corresponding models and physical prototypes are provided to show the feasibility of the obtained MMs, which indicates the proposed synthesis method can be used to construct more types of MMs. As a result, this general synthesis approach offers more candidates for designers who fabricate metamorphic mechanisms with deployment and grasping mobility.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deployable grasping manipulator
 - Metamorphic mechanism
+- Type synthesis approach
+- Connecting pairs
+- Auxiliary planes
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0094114X18304415?via%3Dihub'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

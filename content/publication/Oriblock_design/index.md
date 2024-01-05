@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/143/9/094501/1100577/Design-of-Transformable-Hinged-Ori-Block-Dissected?redirectedFrom=fulltext'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
