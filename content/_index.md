@@ -31,6 +31,14 @@ sections:
           date_start: '2023-08-04'
           date_end: ''
           description: Worked on the electronics and control part of the port automation project.
+        - title: Research Engineer
+          company: National University of Singapore
+          company_url: ''
+          company_logo: nus
+          location: Singapore
+          date_start: '2023-08-04'
+          date_end: ''
+          description: Worked on the electronics and control part of the port automation project.
     design:
       columns: '2'
   - block: Collection
