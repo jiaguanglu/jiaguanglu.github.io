@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ximeng Tao
+title: Gunaglu Jia
 
 # Full name (for SEO)
-first_name: Ximeng
-last_name: Tao
+first_name: Gunaglu
+last_name: Jia
 
 # Status emoji
 # status:
