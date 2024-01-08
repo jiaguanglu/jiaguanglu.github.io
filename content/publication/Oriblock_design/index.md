@@ -1,11 +1,11 @@
 ---
 title: "Design of Transformable Hinged Ori-Block Dissected from Cylinders and Cones"
 authors:
-- admin
-- Hailin Huang
-- Hongwei Guo
-- Bing Li
-- Jian S. Dai
+  - admin
+  - Hailin Huang
+  - Hongwei Guo
+  - Bing Li
+  - Jian S. Dai
 
 # author_notes:
 # - "Equal contribution"
