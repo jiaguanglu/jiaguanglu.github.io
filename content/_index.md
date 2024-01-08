@@ -34,7 +34,7 @@ sections:
         - title: Research Associate
           company: King’s College London
           company_url: ''
-          company_logo: nus
+          company_logo: kcl
           location: London
           date_start: '2022-01-04'
           date_end: '2023-03-15'
