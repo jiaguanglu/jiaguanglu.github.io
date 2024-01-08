@@ -86,6 +86,8 @@ sections:
           tag: Origami
         - name: Mechanical design
           tag: Mechanical design
+        - name: Polishing
+          tag: Polishing
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
