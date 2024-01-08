@@ -52,17 +52,17 @@ sections:
     design:
       columns: '1'
       view: citation
-  - block: Collection
-    id: patents
-    content:
-      title: Patents
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '1'
-      view: compact
+  # - block: Collection
+  #   id: patents
+  #   content:
+  #     title: Patents
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '1'
+  #     view: compact
   - block: portfolio
     id: projects
     content:
