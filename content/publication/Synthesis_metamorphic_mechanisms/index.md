@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2018-07-20T00:00:00Z"
-doi: ""
+doi: "10.1016/j.mechmachtheory.2018.06.017"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-07-20T00:00:00Z"
@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0094114X18304415?via%3Dihub'
 url_code: ''
 url_dataset: ''
 url_poster: ''
