@@ -23,7 +23,7 @@ publishDate: "2021-07-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Mechanical Design (2021) 143(9): 094501"
+publication: ""
 publication_short: "*J. Mech. Des.*, **143**(9): 094501"
 
 abstract: Design strategies for foldable mechanisms have been developed with inspiration from origami. In this study, we investigate a new direction that blocks are folded in a way that origami folds as the ori-blocks to generate a new type of foldable mechanisms consisting of multiple blocks. During the investigation, we propose a design approach to construct ori-blocks dissected from cylinders and cones, where “ori” is derived from the word “origami” in its original meaning as “folding”. In this way, we cut the solids into six portions and assign rotation axes to assemble the portions into movable blocks. Interestingly, this connects the Bricard classical linkages developed in 1897 to these ori-blocks with coincidence of the position and orientation of the axes when the blocks are replaced by links. The study bridges the gap between ori-blocks, origami, and mechanisms, which proposes a set of novel reconfigurable mechanisms as ori-blocks. As spatial linkages have been widely used in a broad range of technical fields, we anticipate that ori-blocks will find several potential applications owing to their kinematics in reconfigurability.
