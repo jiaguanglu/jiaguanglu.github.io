@@ -50,7 +50,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=Hkk1d0pcZL0&ab_channel=GuangluJia'
-url_video: 'https://www.youtube.com/watch?v=jgP4NjigsSw&ab_channel=GuangluJia'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
