@@ -2,8 +2,8 @@
 title: Research on innovative design and on-orbit control method of large-scale intelligent structures
 summary: This project is from Innovative Research Groups and the Joint Funds of the National Natural Science Foundation of China (Grant No. U1613201).
 tags:
-  - Mechnical Design
-  - Screw Theroy  
+  - Mechanical Design
+  - Screw Theory  
 date: '2023-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

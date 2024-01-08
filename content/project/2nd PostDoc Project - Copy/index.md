@@ -2,7 +2,7 @@
 title: Port Project
 summary: This project is from RCA between NUS and PSA.
 tags:
-  - Mechnical Design  - 
+  - Mechanical Design 
 date: '2023-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -29,7 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Date: 2023-05
+Date: 06/2023-present
 
 * A novel climbing robot concept was proposed;
 *  A Smart Corner Casting Lock was designed.

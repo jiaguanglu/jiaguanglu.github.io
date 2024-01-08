@@ -2,7 +2,7 @@
 title: Reconfigurable lower limb exoskeleton for effective stroke treatment in residential settings
 summary: This project is from EPSRC Engineering and Physical Sciences Research Council, UK (Grant No. RE14975).
 tags:
-  - Mechnical Design
+  - Mechanical Design
   - Origami  
 date: '2023-05-01T00:00:00Z'
 
