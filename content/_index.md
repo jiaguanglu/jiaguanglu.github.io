@@ -84,8 +84,8 @@ sections:
           tag: Screw Theory
         - name: Origami
           tag: Origami
-        - name: Mechanical design
-          tag: Mechanical design
+        - name: Mechanical Design
+          tag: Mechanical Design
         - name: Polishing
           tag: Polishing
     design:
