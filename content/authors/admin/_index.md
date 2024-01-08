@@ -14,7 +14,7 @@ last_name: Jia
 superuser: true
 
 # Role/position/tagline
-role: Research Engineer
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,26 +22,26 @@ organizations:
     url: https://nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, control, and machatronics.
+bio: My research interests include mechanisms, kinematics, and robotics.
 
 # Interests to show in About widget
 interests:
   - Robotics
-  - Control theory
+  - Mechanisms
   - Mathematics
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD. Mechanical Engineering
-      institution: National University of Singapore, Singapore
-      year: 2023
+      institution: Harbin Institute of Technology, Shenzhen, China
+      year: 2021
     - course: MSc. Mechanical Engineering
-      institution: National University of Singapore, Singapore
-      year: 2023
-    - course: B.E. Design, Manufacture and Automation in Mechanical Engineering
-      institution: Shandong University, Jinan, China
-      year: 2022
+      institution: Harbin Institute of Technology, Shenzhen, China
+      year: 2016
+    - course: B.E. Mechatronics
+      institution: Changsha University of Science and Technology, Changsha, China
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Hello everyone, I am Ximeng, and major in Mechanical Engineering. My research interests include robotics, control, and mathematics. I got my Bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/) (SDU) in China in 2022. Then I went to Singapore and got my Master's degree from [National University of Singapore](https://nus.edu.sg/) (NUS) in 2023. Now I am a Research Engineer at NUS, advised by [Prof. Chirikjian](https://chirikjianlab.github.io/).
+Hello everyone, I am Guanglu Jia, is currently a research fellow at the [National University of Singapore](https://nus.edu.sg/), working under the supervision of [Prof. Chirikjian](https://chirikjianlab.github.io/). I received my Bachelor's degree in Mechatronics from [Changsha University of Science and Technology](https://www.csust.edu.cn/), Changsha, China in 2013, a MSc degree and a PhD degree in mechanical engineering from [Harbin Institute of Technology](https://www.hit.edu.cn/), Shenzhen, China, in 2016 and 2021, respectively.
 {style="text-align: justify;"}

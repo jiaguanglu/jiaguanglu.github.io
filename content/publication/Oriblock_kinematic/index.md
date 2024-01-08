@@ -1,9 +1,9 @@
 ---
 title: "Metamorphic Oriblocks: Design and Kinematic Analysis of Metamorphic Oriblocks Constructed by Cutting and Linking Cylinders/Cones"
 authors:
-- admin
-- Bing Li
-- Jian S. Dai
+  - admin
+  - Bing Li
+  - Jian S. Dai
 
 # author_notes:
 # - "Equal contribution"
@@ -30,10 +30,10 @@ abstract: Abstract：Origami is the art of folding paper to make it have an exce
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Origami
-- Metamorphic oriblocks
-- Closure equations derivation
-- Kinematic analysis
+  - Origami
+  - Metamorphic oriblocks
+  - Closure equations derivation
+  - Kinematic analysis
 featured: true
 
 # links:
