@@ -23,22 +23,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Engineer
+        - title: Research Fellow
           company: National University of Singapore
           company_url: ''
           company_logo: nus
           location: Singapore
-          date_start: '2023-08-04'
+          date_start: '2023-06-19'
           date_end: ''
-          description: Worked on the electronics and control part of the port automation project.
-        - title: Research Engineer
-          company: National University of Singapore
+          description: Designed Smart Corner Casting Lock (SCCL) and climbing robot.
+        - title: Research Associate
+          company: King’s College London
           company_url: ''
-          company_logo: nus
-          location: Singapore
-          date_start: '2023-08-04'
-          date_end: ''
-          description: Worked on the electronics and control part of the port automation project.
+          company_logo: kcl
+          location: London
+          date_start: '2022-01-04'
+          date_end: '2023-03-15'
+          description: Revealed the intrinsic Relation between Klein Form and the Lie Bracket.
     design:
       columns: '2'
   - block: Collection
