@@ -32,3 +32,4 @@ url_video: ''
 ---
 Date: 2023-05
 
+* The X-ray diffractometer and white light interferometer were applied to conduct verification experiments.
