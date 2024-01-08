@@ -1,6 +1,7 @@
 ---
 title: Ultra-precision machinery and plasma hybrid polishing technology and equipment for processing superhard materials
-summary: This project is from Shenzhen Hong Kong Innovation Circle Joint Research and Development Project (Grant No. SGLH20131010144128266). Several typical dislocation models were established to study the effect of crystal defects on atmospheric plasma polishing; The Materials Studio software was used for modeling and simulation, which was applied to investigate parameters such as the number of states, activation energy, reaction energy barrier, the density of states, etc; The X-ray diffractometer and white light interferometer were applied to conduct verification experiments..
+summary: This project is from Shenzhen Hong Kong Innovation Circle Joint Research and Development Project (Grant No. SGLH20131010144128266). 
+Several typical dislocation models were established to study the effect of crystal defects on atmospheric plasma polishing; The Materials Studio software was used for modeling and simulation, which was applied to investigate parameters such as the number of states, activation energy, reaction energy barrier, the density of states, etc; The X-ray diffractometer and white light interferometer were applied to conduct verification experiments..
 tags:
   - Polishing
   
