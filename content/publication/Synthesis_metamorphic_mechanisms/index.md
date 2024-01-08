@@ -25,7 +25,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Mechanism and Machine Theory"
-publication_short: ""
+publication_short: "*Mech. Mach. Theory*, **128**: 544-559"
 
 abstract: This paper presents a novel type of deployable grasping manipulator (DGM), the fingers of which are constructed of serially connected metamorphic mechanism modules (MMMs), which are the key components for this type of robotic manipulator. A systematic approach for the synthesis of the MMMs is proposed. The MMM consists of one grasping sub- mechanism and two auxiliary sub-mechanisms, and the metamorphic principle is applied to the design of the grasping sub-mechanism to give it both deployment and grasping mo- bility. The design of the MMMs becomes a type of synthesis problem for the auxiliary sub- mechanisms based on the given metamorphic mobility of the grasping sub-mechanism. The auxiliary mechanisms are exhaustively synthesised based on the typical screw the- ory. Computer-aided design (CAD) models and physical prototypes are used to show the feasibility of the proposed mechanisms.
 

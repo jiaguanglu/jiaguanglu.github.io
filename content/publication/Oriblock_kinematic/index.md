@@ -9,7 +9,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-07-20T00:00:00Z"
-doi: ""
+doi: "10.3901/JME.2023.13.024"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-07-20T00:00:00Z"
@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Mechanical Engineering"
-publication_short: ""
+publication_short: "*J. Mech. Eng.*, **59**(13): 24-35"
 
 abstract: Abstract：Origami is the art of folding paper to make it have an excellent folding effect. In order to apply it to the field of robotics and mechanisms, researchers have successively proposed design methods of thick-panel origamis to enable origami to be widely used in the design of foldable mechanisms and reconfigurable mechanisms. Although the thick-panel origamis are kinematically equivalent to zero-thickness origamis, researchers only consider translating the creases to obtain rotational axes of thick-panel origamis in the design process. Therefore, all the rotational axes are parallel to the kinematically equivalent zero-thickness origamis when the thick-panel origamis are at their deployed configuration. Namely, all the rotational axes are parallel to a certain plane. To break through the limitation of the design method of thick-panel origamis, a general design method of metamorphic oriblocks was proposed based on cylinders and cones, which constructs general types of cylindrical and conical oriblocks. This research will also deduce the closure equations of these metamorphic oriblocks, and give examples to analyze the kinematics of different types of metamorphic oriblocks. The metamorphic oriblocks designed in this paper has potential application prospects in the fields of foldable mechanisms, over-constrained mechanisms and configurable mechanisms.
 
@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'http://www.cjmenet.com.cn//CN/10.3901/JME.2023.13.024'
 url_code: ''
 url_dataset: ''
 url_poster: ''

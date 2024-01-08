@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2020-07-20T00:00:00Z"
-doi: ""
+doi: "10.1016/j.mechmachtheory.2020.103848"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-20T00:00:00Z"
@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Mechanism and Machine Theory"
-publication_short: ""
+publication_short: "*Mech. Mach. Theory*, **151**: 103848"
 
 abstract: This paper presents a general synthesis approach for metamorphic mechanisms (MMs) with scissor-like linkage by considering various types of Connecting Pairs (CPs). Specific and general CPs are selected to synthesize MMs with scissor-linkage, respectively. Then, this paper further obtains the structural characteristics of the suitable CPs in such MMs. In addition, the case when two auxiliary planes are parallel to each other is also consid- ered in this paper. After type synthesis of MMs with scissor-like linkage, the corresponding models and physical prototypes are provided to show the feasibility of the obtained MMs, which indicates the proposed synthesis method can be used to construct more types of MMs. As a result, this general synthesis approach offers more candidates for designers who fabricate metamorphic mechanisms with deployment and grasping mobility.
 
@@ -40,7 +40,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0094114X20300690?via%3Dihub'
 url_code: ''
 url_dataset: ''
 url_poster: ''

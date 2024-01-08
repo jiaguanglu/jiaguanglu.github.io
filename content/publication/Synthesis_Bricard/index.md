@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2021-07-20T00:00:00Z"
-doi: ""
+doi: "10.1016/j.mechmachtheory.2021.104330"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-07-20T00:00:00Z"
@@ -23,7 +23,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Mechanism and Machine Theory"
-publication_short: ""
+publication_short: "*Mech. Mach. Theory*, **161**: 104330"
 
 abstract: Type synthesis methods of parallel mechanisms or metamorphic mechanisms have drawn rising interest for mechanism designers. However, existing synthesis approaches cannot synthesize both parallel mechanisms and metamorphic mechanisms. This paper develops a synthesis method of metamorphic mechanisms, which enables it to construct a family of 2-degree-of-freedom (DOF) deployable grasping parallel mechanisms. Namely, the originality of this paper is that it explores a common synthesis method for both parallel mechanisms and metamorphic mechanisms. First, a new type of grasping sub-mechanisms is designed. Then, a kinematic sub-chain is constructed after assembly of a base, a platform, and the grasping sub-mechanism, whose constraint-screw system is obtained using reciprocal screw theory. This constraint-screw system is further applied to derive the de- sired constraints of auxiliary sub-mechanisms using the constraint force parallelogram law. Subsequently, auxiliary sub-mechanisms are type synthesized based on such desired con- straints. Finally, a class of parallel mechanisms is constructed by assembling the auxiliary and the kinematic sub-chain. Thus, this paper and related work generate fresh insight into synthesizing both single-DOF metamorphic mechanisms and 2-DOF parallel mechanisms.
 
@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0094114X21000884?via%3Dihub'
 url_code: ''
 url_dataset: ''
 url_poster: ''
