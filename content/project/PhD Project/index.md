@@ -1,12 +1,9 @@
 ---
-title: Humanoid Robot Shoes Design and Model-free Self-calibration Methods
-summary: Graduate final year project. This project mainly introduced two primary research:circuit hardware design and model-free self-calibration(MFSC).
+title: Research on innovative design and on-orbit control method of large-scale intelligent structures
+summary: This project is from Innovative Research Groups and the Joint Funds of the National Natural Science Foundation of China (Grant No. U1613201).
 tags:
-  - Humanoid Robot
-  - Electronics
-  - PCB
-  - Control
-  - Calibration
+  - Mechnical Design
+  - Screw Theroy  
 date: '2023-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -33,30 +30,10 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Date: 2023-05
+Date: 01/2017-12/2020
 
-![picture1](./xxx.jpg)
-
-![PCB](./PCB.jpg)
-
-A solution combing FSR and shoes is proposed.
-![new_shoe](./new_shoe.png)
-
-FSR data acquisition PCB are designed:
-![new_PCB](./new_PCB.png)
-
-There are three reference frames in the experiment: camera frame, world frame, and foot frame:
-![exp1](./exp1.png)
-
-In experiment, Nao moves itself CoP from the middle to the right side by the model-free control method.
-![exp2](./exp2.png)
-
-Different postures when the robot moves the CoP to different points on the path.
-![exp3](./exp3.png)
-
-When the sensor is accurate, the experimental results of running the same path three times.
-![result1](./result1.png)
-
-![result2](./result2.png)
-
-Thanks to other team members, Boren Jiang, etc. Thanks to my supervisor [Prof. Gregory Chirikjian](https://scholar.google.com/citations?user=qoIuyMoAAAAJ&hl=en).
+* A class of block-shaped ori-blocks was designed, which was kinematic equivalent to classic over-constrained linkages like Bennett linkage, Myard linkage, and Bricard linkage;
+* The deployment/grasping motion of a sub-chain was analyzed using the decomposition theorem of the constraint screw system;
+* A comprehensive type synthesis method based on reciprocal screw theory was proposed to construct reconfigurable mechanisms;
+* A constraint force decomposition theorem was provided to create a family of deployable grasping parallel mechanisms;
+* The performance evaluation indexes of mechanisms were analyzed, such as the deploy/fold ratio and stiffness/mass ratio.
