@@ -37,7 +37,7 @@ sections:
           company_logo: kcl
           location: London
           date_start: '2022-01-04'
-          date_end: '2023-03-15'
+          date_end: '2023-05-30'
           description: Revealed the intrinsic Relation between Klein Form and the Lie Bracket.
     design:
       columns: '2'
