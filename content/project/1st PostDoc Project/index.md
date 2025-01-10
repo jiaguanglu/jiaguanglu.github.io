@@ -30,7 +30,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Date: 01/2022-03/2023
+Date: 01/2022-05/2023
 
 * Adjoint transformation of the Lie bracket was proposed;
 
